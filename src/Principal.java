@@ -58,7 +58,7 @@ public class Principal {
         episodio.setSerie(lost);
         episodio.setNome("Piloto");
         episodio.setNumero(1);
-        episodio.setTotalVisualizacoes(480);
+        episodio.setTotalVisualizacoes(450);
         filtro.filtra(episodio);
         
         
